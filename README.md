@@ -1,15 +1,12 @@
 # 📊 Dashboard de Data Analysis con Charts.js echo en HTML, CSS, y JS 
 
-Este proyecto es un **Dashboard de Data Analysis** para el análisis de datos financieros y de usuario. Permite visualizar información clave a través de tarjetas y gráficos, facilitando la toma de decisiones basadas en datos.
+![Imagen 1](Imagenes/1.png)
+
+![Imagen 2](Imagenes/2.png)
 
 ## 📌 **Características Principales**
 
-✅ Interfaz moderna y responsiva.
-✅ Barra de navegación lateral con ocultado automático.
-✅ Tarjetas de información con datos financieros clave.
-✅ Múltiples gráficos generados con **Chart.js**.
-✅ Pie de página con enlaces a redes sociales y secciones clave.
-✅ Diseño optimizado para dispositivos móviles y escritorios.
+Este proyecto es un **Dashboard de Data Analysis** para el análisis de datos financieros y de usuario. Permite visualizar información clave a través de tarjetas y gráficos, facilitando la toma de decisiones basadas en datos.
 
 ---
 
