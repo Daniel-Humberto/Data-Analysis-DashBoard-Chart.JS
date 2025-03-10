@@ -81,14 +81,6 @@ Añade interactividad y funcionalidad:
 
 ---
 
-## 🚀 **Mejoras Futuras**
-
-🔹 Conectar el dashboard a unaGPL-3.0 license **base de datos** para datos en tiempo real.
-🔹 Implementar **filtros y opciones de personalización** en los gráficos.
-🔹 Agregar **animaciones adicionales** para mejorar la interactividad.
-🔹 Optimizar el rendimiento para carga más rápida de datos.
-
----
 
 ## 📝 **Licencia**
 
