@@ -95,5 +95,6 @@ Añade interactividad y funcionalidad:
 
 ## 📝 **Licencia**
 
-Este proyecto está bajo la licencia **GPL-3.0 License**.
+Este proyecto está licenciado bajo la [Licencia GNU](LICENSE).
 
+---
