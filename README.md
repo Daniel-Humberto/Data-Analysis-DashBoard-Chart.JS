@@ -1,4 +1,4 @@
-# 📊 Dashboard de Data Analysis con Charts.js echo en HTML, CSS, y JS 
+# 📊 Dashboard de Data Analysis con Chart.js echo en HTML, CSS, y JS 
 
 ![Imagen 1](Imagenes/1.png)
 
