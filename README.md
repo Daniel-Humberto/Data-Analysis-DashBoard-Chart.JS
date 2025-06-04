@@ -10,18 +10,6 @@ Este proyecto es un **Dashboard de Data Analysis** para el análisis de datos fi
 
 ---
 
-## 🏗 **Instalación y Uso**
-
-### 🔹 **Requisitos Previos**
-Para ejecutar este dashboard solo necesitas un navegador web .
-
-### 🔹 **Instrucciones de Uso**
-1. **Descarga o clona** este repositorio.
-2. Abre `Index.html` en tu navegador favorito.
-3. Interactúa con la pagina web.
-
----
-
 ## 🎨 **Detalles del Diseño**
 
 - **Tema oscuro** con colores contrastantes para mejor visibilidad.
