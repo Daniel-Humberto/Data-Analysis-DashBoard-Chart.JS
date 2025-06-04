@@ -10,18 +10,6 @@ Este proyecto es un **Dashboard de Data Analysis** para el análisis de datos fi
 
 ---
 
-## 📂 **Estructura del Proyecto**
-
-```
-📁 Dashboard
-├── 📄 Index.html  # Estructura y contenido del dashboard
-├── 🎨 Style.css   # Estilos y diseño del dashboard
-├── 📜 Index.js    # Lógica e interactividad con gráficos
-├── 📄 README.md   # Documentación del proyecto
-```
-
----
-
 ## 🏗 **Instalación y Uso**
 
 ### 🔹 **Requisitos Previos**
